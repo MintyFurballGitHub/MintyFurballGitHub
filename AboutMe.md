@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MintyFurballGitHub
+- 👀 I’m interested in Scratch
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Scratch
+- 📫 How to reach me cookmintyboy@gmail.com
+- I reccommend playing my buggy latest project Paper Minecraft but ba!![Title](https://user-images.githubusercontent.com/101945158/159132790-fe1aee76-a23f-4a1e-85ce-37527c09db06.png)
