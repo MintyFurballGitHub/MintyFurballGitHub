@@ -1,0 +1,1 @@
+Get Code! ext._shutdown = function() {};ext._getStatus = function() { return {status: 2, msg: 'Ready'};}; ext.Oh. = function (callback){ window.alert('Sussy baja'); }; var descriptor = { blocks: [ [" ","( hello)","myBlock"],],menus: {},url: 'https://kyleplo.github.io/scratch-extension-creator/help#'Hello!};ScratchExtensions.register('Fun thingy', descriptor, ext);
